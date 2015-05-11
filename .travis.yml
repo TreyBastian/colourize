@@ -1,5 +1,5 @@
 language: go
 go:
- -tip
+ - tip
 script:
  - go test -v ./...
