@@ -2,4 +2,4 @@ language: go
 go:
 	-tip
 script:
-	- go test
+	- go test -v ./...
