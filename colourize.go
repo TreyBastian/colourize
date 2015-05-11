@@ -1,4 +1,4 @@
-// Package colourize implements simple ANSI colour codes to style termianl output text.
+// Package colourize implements simple ANSI colour codes to style terminal output text.
 package colourize
 
 import (
