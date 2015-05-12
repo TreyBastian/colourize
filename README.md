@@ -16,3 +16,5 @@ An ANSI colour terminal package for Go
     }
     
 Supports all ANSI colours and emphasis. Not compatible with Windows systems.
+
+I'm not expecting anyone to actually use this package or even find it, but if you do end up using it drop me a line and let me know!
