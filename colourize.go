@@ -42,7 +42,7 @@ const (
 	Strikeout = 9
 )
 
-/* Colourize is the function that provides colours for values passed to it.
+/*Colourize is the function that provides colours for values passed to it.
 package main
 
 import(
@@ -54,7 +54,6 @@ func main() {
 	fmt.Println(c.Colourize("Hello", c.Cyan))
 }
 */
-
 func Colourize(s interface{}, style ...int) string {
 	b := new(bytes.Buffer)
 	b.WriteString("\x1b[")
