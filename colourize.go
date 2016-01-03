@@ -1,4 +1,4 @@
-// Package colourize implements simple ANSI colour codes to style terminal output text.
+//Package colourize implements simple ANSI colour codes to style terminal output text.
 package colourize
 
 import (
@@ -7,9 +7,9 @@ import (
 	"strconv"
 )
 
-// Colour Styles
+//Colour Styles
 const (
-	// Text Colour
+	//Text Colour
 	Black   = 30
 	Red     = 31
 	Green   = 32
@@ -20,7 +20,7 @@ const (
 	White   = 37
 	Grey    = 90
 
-	// Background Colour
+	//Background Colour
 	Blackbg   = 40
 	Redbg     = 41
 	Greenbg   = 42
@@ -30,7 +30,7 @@ const (
 	Cyanbg    = 46
 	Whitebg   = 47
 
-	// Style
+	//Style
 	Bold      = 1
 	Dim       = 2
 	Italic    = 3
