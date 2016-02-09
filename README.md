@@ -17,7 +17,7 @@ Supports all ANSI colours and emphasis. Not compatible with Windows systems.
     )
     
     func main() {
-      fmt.Println(c.colourize("Hello World!", c.Green, c.Whitebg, c.Bold)
+      fmt.Println(c.Colourize("Hello World!", c.Green, c.Whitebg, c.Bold))
     }
 
 
