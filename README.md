@@ -22,5 +22,4 @@ Supports all ANSI colours and emphasis. Not compatible with Windows systems.
 
 
 # Projects Using colourize
-
-Nothing Yet, but if you use it let me know!
+*  [nettee](https://github.com/Manaphy91/nettee)
