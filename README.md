@@ -5,6 +5,9 @@ Card](https://goreportcard.com/badge/github.com/TreyBastian/colourize)](https://
 An ANSI colour terminal package for Go.
 Supports all ANSI colours and emphasis. Not compatible with Windows systems.
 
+# Project is no longer maintained.
+This project is no longer maintained. However it's also complete. It has not and will not be updated with new Go features.
+
 # Installation
 
      go get github.com/TreyBastian/colourize 
